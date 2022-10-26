@@ -1,0 +1,28 @@
+.wrapper {
+    width: 100vw;
+    /* margin: 0 auto; */
+    /* display: block; */
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px; */
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.images{
+    width: 20%;
+   
+}  
+
